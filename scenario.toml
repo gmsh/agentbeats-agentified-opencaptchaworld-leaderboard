@@ -3,7 +3,7 @@ agentbeats_id = "019b9529-a7e1-7a12-8c9c-070bf47813ba"
 env = {LOG_LEVEL = "INFO" }
 
 [[participants]]
-agentbeats_id = ""
+agentbeats_id = "019b9574-4f99-7cd1-ad88-77850dd62cff"
 name = "opencaptcha_solver"
 env = {}
 
