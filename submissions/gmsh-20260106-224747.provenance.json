@@ -1,0 +1,8 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/gmsh/agentified-opencaptchaworld@sha256:8414509682e41eadde60f3ffbd930b7201f4ff7200f6fb9a780c5c45aa62552f",
+    "opencaptcha_solver": "ghcr.io/gmsh/agentbeats-agentified-opencaptchaworld-baseline-solver@sha256:a5142981ceed0ade2e08ae834920d6762e9894643390907bb4bfb4e112f54a46",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-06T22:47:46Z"
+}
